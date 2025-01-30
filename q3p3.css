@@ -1,0 +1,28 @@
+#num1{
+	background-image: linear-gradient(blue, mediumpurple);
+	width: 500px;
+	padding: 10px;
+	border: 5px solid #161D6F;
+	margin: 25px;
+	text-align: center;
+	font-family: Avantgarde;
+}
+#num2{
+	background-image: linear-gradient(blue, mediumpurple);
+	width: 500px;
+	padding: 10px;
+	border: 5px solid #161D6F;
+	margin: 25px;
+	text-align: center;
+	font-family: Avantgarde;
+}
+body{
+	background-color: #d92323;
+		background-image: url(https://i.pinimg.com/originals/fb/16/93/fb16936ab3550bbcb2f5b4b1c81f07ea.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+#buttons{
+	font-family: monospace;
+}
